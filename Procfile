@@ -1,1 +1,1 @@
-web gunicorn test:app
+web: python wedding_bot.py runserver 0.0.0.0:5000
