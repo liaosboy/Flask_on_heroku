@@ -1,1 +1,1 @@
-web: python wedding_bot.py runserver 0.0.0.0:8999
+web: python test.py runserver 0.0.0.0:8999
